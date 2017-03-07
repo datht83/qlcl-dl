@@ -1,0 +1,2 @@
+<h2>Giới thiệu</h2>
+<p>Chủ tịch Hồ Chí Minh sinh ngày 19/5/1890 trong một gia đình nhà nho, nguồn gốc nông dân, ở làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An, nơi có truyền thống đấu tranh kiên cường chống ách thống trị của thực dân phong kiến. Hoàn cảnh xã hội và sự giáo dục của gia đình đã ảnh hưởng sâu sắc đến Người ngay từ thời niên thiếu.</p>
