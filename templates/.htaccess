@@ -1,0 +1,8 @@
+#<Files ^(*.jpeg|*.jpg|*.png|*.gif)>
+#order deny allow
+#deny from all
+#</Files>
+
+<FilesMatch "\.(php|js|pl|txt)$">
+deny from All
+</FilesMatch>
